@@ -10,5 +10,5 @@
 ## 🚀 Skills
 HTML | CSS |•	Bootstrap | JavaScript | React | Tailwind CSS | Hooks | Context API 
 
-## 🌐 Connect with me
+## 🌐 Connect with me 
 LinkedIn: https://www.linkedin.com/in/rakhi-verma-625560231/
